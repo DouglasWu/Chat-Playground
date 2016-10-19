@@ -1,4 +1,4 @@
-# wootalk-frontend-hack
+# Chat-Playground
 
 ## Usage
 1. Go to https://wootalk.today
